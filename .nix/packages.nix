@@ -12,6 +12,7 @@ with pkgs; [
 
   # Useful tools
   git
+  gh  # GitHub CLI
   curl
   wget
 ] ++ rustTools
